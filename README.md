@@ -1,9 +1,14 @@
-deploy
+Deploy
 
 https://madmanaman.github.io/cv-porfolio/
 
+Fork 
 
-fork y commit
+https://github.com/madmanaman/Cupon-DesafioLatam-4
+
+https://github.com/madmanaman/portafolio
+
+Commits
 
 https://github.com/madmanaman/Cupon-DesafioLatam-4/commits/main/
 
